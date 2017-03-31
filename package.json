@@ -1,0 +1,19 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "EHR track records and physicians",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesparrow/data-visualization.git"
+  },
+  "author": "Anna Shilova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesparrow/data-visualization/issues"
+  },
+  "homepage": "https://github.com/thesparrow/data-visualization#readme"
+}
