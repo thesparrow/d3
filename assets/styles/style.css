@@ -1,3 +1,45 @@
+body {
+    background: #fff;
+    color: #757575;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+
+img {
+    max-width: 100%
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #000;
+    margin-bottom: 24px;
+}
+
+h3 {
+    font-size: 1.4em;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 0;
+}
+
+p, a {
+    line-height: 1.7em;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.main {
+    margin-bottom: 24px;
+}
+
+.main-title {
+    text-align: center;
+}
+
+/* chart display graphics*/
 .chart rect {
   fill: steelblue;
 }
@@ -7,3 +49,4 @@
   font: 10px sans-serif;
   text-anchor: end;
 }
+

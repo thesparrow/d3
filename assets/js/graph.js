@@ -11,7 +11,7 @@
 var physicianUser = {
   physicianType: "",
   EHRtype: "",
-  averageUsage; ""
+  averageUsage: ""
 };
 
 
