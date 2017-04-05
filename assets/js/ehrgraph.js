@@ -25,8 +25,6 @@ d3.json("assets/data/ehr.json", function(err, data) {
         //console.log(data[i]); 
         var stateData = {};
         if (data[i]["period"] === "2015") {
-
-
             allStates.push({
                 year: data[i]["period"],
                 state: data[i]["region"],
@@ -34,21 +32,5 @@ d3.json("assets/data/ehr.json", function(err, data) {
             });
         }
     }
-    console.log(allStates);
 
-    //move through each dataset for 2015 
-    //console.log(data.period);
-
-    //create circles based on json data 
-    /*var circles = svgContainer.selectAll("circle")
-        .data(data)
-        .enter()
-        .append("circle");
-
-    //graph attributes     
-    var circleAttributes = circles
-        .attr("cx", function(d) { return d.x_axis; })
-        .attr("cy", function(d) { return d.y_axis; })
-        .attr("r", function(d) { return d.radius; })
-        .style("fill", function(d) { return d.color; }); */
 });
