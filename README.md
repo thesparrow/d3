@@ -20,7 +20,7 @@ Year for data: 2015
 
 Feedback: 
 
-![My image](thesparrow.github.com/d3/assets/img/verticalEHRbar2015.png)
+![My image](/assets/img/verticalEHRbar2015.png)
 Resources - list any sources you consulted to create your visualization
 
 https://dashboard.healthit.gov/datadashboard/documentation/physician-health-it-adoption-use-data-documentation.php
