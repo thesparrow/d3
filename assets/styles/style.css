@@ -39,7 +39,7 @@ p, a {
     text-align: center;
 }
 
-/* format horizontal chart */
+/* format horizontal chart*/
 .chart rect {
   fill: steelblue;
 }
@@ -50,15 +50,3 @@ p, a {
   text-anchor: end;
 }
 
-/* format vertical chart growth */
-.bar {
-  fill: steelblue;
-}
-
-.bar:hover {
-  fill: brown;
-}
-
-.axis--x path {
-  display: none;
-}
