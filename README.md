@@ -16,13 +16,11 @@ Use categories of basic
 * basic EHR system
 * certified EHR system 
 
+Year for data: 2015 
 
-Year time span: 2013 -2015 
+Feedback: 
 
-Feedback - include all feedback you received from others on your visualization from the first sketch to the final visualization
-
-
-
+![My image](thesparrow.github.com/d3/img/verticalEHRbar2015.png)
 Resources - list any sources you consulted to create your visualization
 
 https://dashboard.healthit.gov/datadashboard/documentation/physician-health-it-adoption-use-data-documentation.php
